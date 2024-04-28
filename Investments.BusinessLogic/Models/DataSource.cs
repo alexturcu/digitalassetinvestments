@@ -10,6 +10,7 @@
         Kucoin,
         Phantom,
         Keplr,
-        Metamask
+        Metamask,
+        None
     }
 }
